@@ -1,0 +1,162 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box 
+}
+
+
+
+    body{
+        padding-top: 20px;
+        padding-right: 100px;
+        padding-left: 100px;
+    }
+
+   .conteudo{
+
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+   
+   
+   
+
+   }
+   h6{
+    color: #b40e0e;
+    font: bold;
+    font-size:20px ;
+
+   }
+
+.uchihas{
+    display: flex;
+    width: 20px;
+    height: 300px;
+}
+
+   
+h1 {
+    color: #eb1010;
+    font-size: 60px;
+    font-weight: bold;
+    background-color: black;
+}
+
+.sub-titulo{
+
+background-color: rgb(177, 37, 37);
+
+
+}
+p{
+    font-size: 20px;
+    color: rgb(9, 7, 7);
+}
+ 
+.cla{
+    height: 50px;
+    width: 400px;
+    display: inline-block;
+}
+    
+
+
+span{
+    color: rgb(7, 0, 0);
+    font-size: 70px;
+    font-weight: bold;
+   }
+
+h2{
+    font-size: 60px;
+    font-weight: bolder;
+    color: #eb1010;
+}
+
+h3{
+    font-size: 60px;
+    font-weight: bolder;
+    color: #1026eb;
+    
+}
+  
+#pergunta{
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+
+
+
+h4{
+    font-size: 60px;
+    font-weight: bolder;
+    color: #eb1010;
+}
+
+button{
+
+
+    background: #4c3ea5;
+    color: rgb(10, 10, 10);
+    border-radius: 60px;
+    padding: 10px;
+    margin-top: 20px;
+    cursor: pointer;
+
+   }
+  
+input{
+    color: #eb1010;
+    width: 300px; 
+    height: 40px; 
+    padding: 10px; 
+    font-size: 16px; 
+}
+
+
+   button:hover{
+    
+    background-color: #f55105;
+    transition: 0.5s; 
+
+}
+
+
+   
+    
+    
+
+    .caixa-imagem{
+        display: flex;
+        justify-content:center;
+
+    }
+ 
+   
+    
+.logo{
+    width: 220px;
+}
+
+
+    .botao-uchiha{
+        width: 100px;
+        cursor: pointer;
+        transition: 1s;
+
+    }
+    .botao-uchiha:hover {
+
+  transform: translateY(-35px);
+ 
+    }
+
+
+
+
+
